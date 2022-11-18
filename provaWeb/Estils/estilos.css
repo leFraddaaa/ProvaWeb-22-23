@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  p {
+    color: red;
+  }
+
+  h3 {
+    color: red;
+    background-color: blue;
+    border: 1px solid black;
+  }
+  
+  p {
+    color: yellow;
+  }
+  
